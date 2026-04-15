@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #36d1dc, #5b86e5);
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+h2 {
+    color: #333;
+    font-weight: bold;
+}
+
+button {
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
